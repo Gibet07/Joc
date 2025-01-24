@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(160, 20, 20);
+}
+
+canvas{
+    border: 4px solid whitesmoke;
+    border-bottom: transparent;
+    margin: 0 auto;
+    display: block;
+}
